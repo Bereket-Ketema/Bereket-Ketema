@@ -1,6 +1,6 @@
-<img src="https://github.com/USERNAME/REPO/blob/main/0b94b621-e5f5-4e22-a83d-06ff01c8b37c.png" width="400" align="right" />
+<img src="https://github.com/Bereket-Ketema/REPO/blob/main/0b94b621-e5f5-4e22-a83d-06ff01c8b37c.png" width="400" align="right" />
 
-  👋 Hi, I'm Bereket Ketema
+                               <h1>  👋 Hi, I'm Bereket Ketema </h1>
 
 🎓 I’m a **Software Engineering student at Adama Science And Technology University** passionate about building impactful tech solutions.  
 💻 I specialize in **Django**, **Next.js**, **Express.js** for website development and **React Native** for mobile development.  
