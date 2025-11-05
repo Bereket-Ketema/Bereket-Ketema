@@ -1,5 +1,3 @@
-<img src="https://github.com/bereket-ketema/portfolio/raw/main/0b94b621-e5f5-4e22-a83d-06ff01c8b37c.png" width="400" align="right" />
-
 
    <h1 align="center">👋 Hi, I'm Bereket Ketema</h1>
 
