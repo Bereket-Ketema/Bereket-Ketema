@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/bereket-ketema/bereket-ketema/main/developer.png" width="400" align="right" />
+<img src="https://raw.githubusercontent.com/Bereket-Ketema/your-repo/main/developer.png" width="200" alt="developer illustration" />
 
    <h1 align="center">👋 Hi, I'm Bereket Ketema</h1>
 
