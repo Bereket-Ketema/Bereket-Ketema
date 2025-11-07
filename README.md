@@ -1,6 +1,6 @@
 <!-- 👋 Animated Greeting -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656603-6b88e9b8-3f3c-4d85-9d5a-0e3e5e8d1b08.gif" width="600" alt="Hi, I'm Bereket Ketema" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C0FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Bereket+Ketema!;Software+Engineering+Student;Mobile+%26+Backend+Developer;Always+Learning+New+Things!"/>
 </div>
 
 
