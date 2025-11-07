@@ -1,7 +1,7 @@
 <!-- 👋 Animated Greeting -->
 <!-- 👋 Animated Greeting -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> <!-- Optional: Add a static badge as fallback -->
+  <img src="https://komarev.com/ghpvc/?username=Bereket-Ketema&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> <!-- Optional: Add a static badge as fallback -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C0FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I%27m+Bereket+Ketema!;Software+Engineering+Student;Mobile+%26+Backend+Developer;Always+Learning+New+Things!" alt="Typing Animation" />
 </div>
 
@@ -26,8 +26,10 @@
 
 ### ⚙️ Frameworks & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,react,reactnative,nextjs,express,flutter,nodejs" />
+  <img src="https://skillicons.dev/icons?i=django,react,nextjs,express,flutter,nodejs" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React Native" />
 </p>
+
 
 ### 🗄️ Databases
 <p align="center">
