@@ -1,5 +1,11 @@
+<!-- 👋 Animated Greeting -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C0FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Bereket+Ketema!;Software+Engineering+Student;Mobile+%26+Backend+Developer;Always+Learning+New+Things!"/>
+</div>
 
-   <h1 align="center">👋 Hi, I'm Bereket Ketema</h1>
+---
+
+<h1 align="center">👋 Hi, I'm Bereket Ketema</h1>
 
 🎓 I’m a **Software Engineering student at Adama Science And Technology University** passionate about building impactful tech solutions.  
 💻 I specialize in **Django**, **Next.js**, **Express.js** for website development and **React Native** for mobile development.  
@@ -8,36 +14,27 @@
 
 ---
 
- 🚀 My Tech Stack
+## 🚀 My Tech Stack
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### 🧠 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,dart,cpp,html,css,php" />
+</p>
 
-**Frameworks & Tools**  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+### ⚙️ Frameworks & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,react,reactnative,nextjs,express,flutter,nodejs" />
+</p>
 
-**Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb" />
+</p>
 
-**Version Control**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 🧰 Version Control
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
 
 ---
 
@@ -52,8 +49,10 @@
 
 ## 🏆 GitHub Stats
 
-![Beki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bereket-Ketema&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bereket-Ketema&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bereket-Ketema&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bereket-Ketema&layout=compact&theme=radical" height="160"/>
+</p>
 
 ---
 
@@ -62,3 +61,5 @@
 💼 [LinkedIn](https://www.linkedin.com/in/bereket-ketema-017810395/)  
 🧑‍💻 [Portfolio Website](https://bereket-ketema-github-io.vercel.app)  
 📧 **bekishet@gmail.com**
+
+---
