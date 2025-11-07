@@ -1,7 +1,8 @@
 <!-- 👋 Animated Greeting -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/0b/53/fe/0b53fe4b3a733e0f7e85f10c6aaf25f9.gif" width="400" alt="Coder animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/216656603-6b88e9b8-3f3c-4d85-9d5a-0e3e5e8d1b08.gif" width="600" alt="Hi, I'm Bereket Ketema" />
 </div>
+
 
 ---
 
